@@ -1,4 +1,4 @@
-$navbar-default-bg: #08088A;
+
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
@@ -19,4 +19,8 @@ $navbar-default-bg: #08088A;
 
 .center {
 	text-align: center;
+}
+
+body { 
+	padding-bottom: 70px; 
 }
