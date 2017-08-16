@@ -41,6 +41,7 @@ gem 'jbuilder', '~> 2.5'
 # My added gems
 gem 'bootstrap-sass', '~> 3.3.6' # Bootstrap for styling
 gem 'jquery-rails' 
+gem 'bcrypt', '~> 3.1.7'
 
 group :production do
   gem 'pg'
