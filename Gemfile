@@ -42,6 +42,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~> 3.3.6' # Bootstrap for styling
 gem 'jquery-rails' 
 gem 'bcrypt', '~> 3.1.7'
+gem 'will_paginate', '~> 3.1.0'
+gem 'bootstrap-will_paginate'
 
 group :production do
   gem 'pg'
