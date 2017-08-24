@@ -1,7 +1,7 @@
 require 'test_helper'
 require 'rails-controller-testing'
 
-class CreateCategoriesTest < ActionDispatch::IntegrationTest
+class ListCategoriesTest < ActionDispatch::IntegrationTest
 
 	def setup
 		@category = Category.create(name: "books")
