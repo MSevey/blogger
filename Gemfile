@@ -44,6 +44,7 @@ gem 'jquery-rails'
 gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '~> 3.1.0'
 gem 'bootstrap-will_paginate'
+gem 'rails-controller-testing', '~> 0.0.3' # assert_template has been extracted to this gem
 
 group :production do
   gem 'pg'
