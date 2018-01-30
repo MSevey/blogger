@@ -10,6 +10,3 @@ Users can sign up for accounts, create articles, and add categories.  Users can 
 
 #### URL ####
 https://udemy-blogger.herokuapp.com/
-
-----
-Built with udemy complete ruby on rails developer course.
