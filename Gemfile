@@ -36,7 +36,7 @@ gem 'bootstrap-will_paginate'
 gem 'rails-controller-testing', '~> 0.0.3' # assert_template has been extracted to this gem
 
 group :production do
-  gem 'pg'
+  gem 'pg', '~> 0.21.0'
   gem 'rails_12factor'
 end
 
